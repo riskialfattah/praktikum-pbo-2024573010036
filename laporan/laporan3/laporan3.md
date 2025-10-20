@@ -1,8 +1,8 @@
 # Laporan Modul 4: Pengenalan Object Oriented Programming
 **Mata Kuliah:** Praktikum Pemrograman Berorientasi Objek  
-**Nama:** [Riski Al Fatah]  
-**NIM:** [2024573010036]  
-**Kelas:** [TI.2E]
+**Nama:** Riski Al Fatah  
+**NIM:** 2024573010036  
+**Kelas:** TI.2E
 
 ---
 

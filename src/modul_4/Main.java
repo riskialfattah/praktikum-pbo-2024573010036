@@ -39,8 +39,8 @@ public class Main {
             System.out.println("* 1. Tambah Mata Kuliah                                    *");
             System.out.println("* 2. Input Nilai Mata Kuliah                               *");
             System.out.println("* 3. Tampilkan KRS (Lengkap)                               *");
-            System.out.println("* 4. Hapus Mata Kuliah                       (NEW)         *");
-            System.out.println("* 5. Tampilkan Nilai Terbaik/Terburuk        (NEW)         *");
+            System.out.println("* 4. Hapus Mata Kuliah                                     *");
+            System.out.println("* 5. Tampilkan Nilai Terbaik/Terburuk                      *");
             System.out.println("* 6. Keluar                                                *");
             System.out.println("************************************************************");
             System.out.print("Pilih menu: ");
