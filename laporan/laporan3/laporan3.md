@@ -6,6 +6,9 @@
 
 ---
 
+## Abstrak
+Laporan praktikum ini (Modul 4) membahas pengenalan dasar dan konsep fundamental dari Object-Oriented Programming (OOP) menggunakan bahasa Java. Tujuan utama dari modul ini adalah untuk memahami perbedaan antara pemrograman prosedural dan OOP, serta mempraktikkan konsep inti OOP yaitu Class dan Object. Metodologi yang digunakan adalah melalui studi kasus praktikum pembuatan Sistem Manajemen Kartu Rencana Studi (KRS) sederhana. Sistem ini mengimplementasikan beberapa kelas, yaitu Mahasiswa (sebagai blueprint data mahasiswa), Matakuliah (sebagai blueprint data mata kuliah), dan KartuRencanaStudi (sebagai kelas yang mengelola interaksi antar objek). Laporan ini juga mencakup modifikasi program untuk menambah fungsionalitas yang lebih kompleks, seperti validasi batas SKS, fitur hapus mata kuliah, dan kemampuan untuk menampilkan nilai terbaik/terburuk. Hasil akhir dari praktikum ini adalah sebuah aplikasi konsol fungsional yang membuktikan bagaimana OOP dapat digunakan untuk membangun program yang lebih terstruktur, modular, dan mudah dikelola.
+
 ## Pendahuluan
 Modul ini dirancang untuk memberikan pemahaman dasar tentang pemrograman berorientasi objek menggunakan Java melalui praktikum langsung. Setiap praktikum dilengkapi dengan teori dasar dan langkah-langkah implementasi yang detail.
 
@@ -139,3 +142,7 @@ Program ini merupakan aplikasi berbasis Java yang mengelola **Kartu Rencana Stud
 
 ## Kesimpulan
 Program Kartu Rencana Studi (KRS) ini berhasil mengimplementasikan konsep Object-Oriented Programming dengan baik, dengan fitur-fitur seperti menambah, menghapus mata kuliah, serta menginput nilai dan menampilkan KRS. Dengan penambahan validasi SKS dan fitur baru untuk menampilkan nilai terbaik atau terburuk, program ini menjadi lebih fungsional dan mudah digunakan. Modifikasi yang dilakukan pada Class KartuRencanaStudi dan Class Main menjadikan program lebih dinamis, memungkinkan pengguna untuk mengelola mata kuliah dengan lebih fleksibel. Pemrograman berorientasi objek membantu dalam pembuatan aplikasi yang lebih terstruktur dan modular, meningkatkan pemeliharaan dan pengembangan lebih lanjut.
+
+## Referensi
+Oracle Corporation. (2024). The Java™ Tutorials: Object-Oriented Programming Concepts. Diakses pada 6 November 2025, dari https://docs.oracle.com/javase/tutorial/java/concepts/
+Oracle Corporation. (2024). The Java™ Tutorials: Classes and Objects. Diakses pada 6 November 2025, dari https://docs.oracle.com/javase/tutorial/java/javaOO/index.html
